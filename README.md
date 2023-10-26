@@ -1,0 +1,2 @@
+# AI Driven JobFinder C#
+ This is a comprehensive job finder application developed in C#. It leverages the power of OpenAI to match job seekers with the best suitable jobs from the database. The application also includes a chat AI feature, enabling interactive job search and assistance. It offers functionalities for companies to add and track jobs, thereby creating a robust ecosystem for job seekers and providers. using MSSQL DB and  Open AI Api , Google Api (For Login )  , SMS Api
